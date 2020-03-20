@@ -2,6 +2,8 @@
 
 This homework focusses on Refactoring the code of Horiseon Marketing agency website so that web page is more adhering to accessibiity standards. HTML elements are Updated with semantic structure , Made sure Hyper links are working and navigated correctly. CSS Structure has been modified to follow the structure of HTML elements. Also comments have been added where ever changes are made to satisfy above requirements.
 
+Web URL : https://pallavinama.github.io/homework/
+
 # Below are the User Story Requirements and how they are implemented.
 
 Req1 (Sematic HTML Elements) - Replaced Non semantic elements (Div , Span) with semantic elements lik "header", "Footer", "section" , "article" etc
