@@ -4,6 +4,8 @@ This homework focusses on Refactoring the code of Horiseon Marketing agency webs
 
 Web URL : https://pallavinama.github.io/homework/
 
+![SS-horiseon](https://user-images.githubusercontent.com/61402034/77220219-3b803f80-6b14-11ea-96f2-ff822bbd8c6b.png)
+
 # Below are the User Story Requirements and how they are implemented.
 
 Req1 (Sematic HTML Elements) - Replaced Non semantic elements (Div , Span) with semantic elements lik "header", "Footer", "section" , "article" etc
