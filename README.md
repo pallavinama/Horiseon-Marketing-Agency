@@ -2,7 +2,7 @@
 
 This homework focusses on Refactoring the code of Horiseon Marketing agency website so that web page is more adhering to accessibiity standards. HTML elements are Updated with semantic structure , Made sure Hyper links are working and navigated correctly. CSS Structure has been modified to follow the structure of HTML elements. Also comments have been added where ever changes are made to satisfy above requirements.
 
-Web URL : https://pallavinama.github.io/homework/
+Web URL : https://pallavinama.github.io/Horiseon-Marketing-Agency/
 
 ![SS-horiseon](https://user-images.githubusercontent.com/61402034/77220219-3b803f80-6b14-11ea-96f2-ff822bbd8c6b.png)
 
